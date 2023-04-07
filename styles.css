@@ -24,15 +24,12 @@
 }
 
 #hero-section {
-    background-image: url('Background.png');
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    
 }
 
 #hero-text {}
 
-#news-space {
+footer {
     margin-top: 80px;
     margin-left: 72px;
     margin-right: 72px;
